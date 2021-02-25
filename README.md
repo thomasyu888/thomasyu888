@@ -1,4 +1,3 @@
-### 👋 Hi there 👋
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thomasyu888/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=LinkedIn&logoColor=0A66C2"></a> 
