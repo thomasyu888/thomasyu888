@@ -11,9 +11,21 @@
 </p>
 
 
+<table><tr><td valign="center">
+
 ![thomasyu888's github stats](https://github-readme-stats.vercel.app/api?username=thomasyu888&hide=stars&show_icons=true&theme=dracula)
 
+  <sup>
+
   _widget by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)_
+
+  </sup>
+
+</td><td valign="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasyu888&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+</td></tr></table>
 
 
 
