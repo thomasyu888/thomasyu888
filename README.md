@@ -13,10 +13,8 @@
 
 ![thomasyu888's github stats](https://github-readme-stats.vercel.app/api?username=thomasyu888&hide=stars&show_icons=true&theme=dracula)
 
-  <sup>
   _widget by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)_
 
-  </sup>
 
 
 <!--
