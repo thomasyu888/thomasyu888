@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <strong>Bioinformatics Engineer at <a href="https://sagebionetworks.org/">Sage Bionetworks</a></strong> <br/>
+  <strong>Senior Bioinformatics Engineer at <a href="https://sagebionetworks.org/">Sage Bionetworks</a></strong> <br/>
   <em>bridging the gap between science and engineering one pull request at a time </em> <br/><br/>
+  <a href="https://thomasyu888.github.io/playground/">this is my playground</a> <br/><br/>
 </p>
 
 
