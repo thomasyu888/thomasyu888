@@ -25,7 +25,7 @@
 
 </td><td valign="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasyu888&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasyu888&theme=dracula&hide=java,html)](https://github.com/anuraghazra/github-readme-stats)
 
 </td></tr></table>
 
